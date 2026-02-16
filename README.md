@@ -33,10 +33,15 @@ This project demonstrates an end-to-end Machine Learning workflow suitable for a
 ## 🔍 Machine Learning Workflow
 
 1.Data Cleaning & Preprocessing
+
 2.Exploratory Data Analysis (EDA)
+
 3.Feature Encoding
+
 4.Model Training
+
 5.Model Evaluation
+
 6.Model Deployment using Flask
 
 ## 🤖 Model Used
