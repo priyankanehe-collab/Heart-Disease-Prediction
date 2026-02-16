@@ -32,29 +32,37 @@ This project demonstrates an end-to-end Machine Learning workflow suitable for a
 
 ## 🔍 Machine Learning Workflow
 
-1.Data Cleaning & Preprocessing
-2.Exploratory Data Analysis (EDA)
-3.Feature Encoding
-4.Model Training
-5.Model Evaluation
-6.Model Deployment using Flask
+ 1.Data Cleaning & Preprocessing
+ 2.Exploratory Data Analysis (EDA)
+ 3.Feature Encoding
+ 4.Model Training
+ 5.Model Evaluation
+ 6.Model Deployment using Flask
 
 ## 🤖 Model Used
 
-Logistic Regression
+- Logistic Regression
 
 ## 📈 Model Output
 
 Prediction:
-High Risk of Heart Disease
-Low Risk of Heart Disease
+
+- High Risk of Heart Disease
+
+- Low Risk of Heart Disease
 
 ## 🚀 How to Run the Project
 
 1.Clone the repository
+
 2.Install dependencies:
+
 pip install -r requirements.txt
+
 3.Run the Flask app:
+
 python App.py
+
 4.Open browser and go to:
+
 http://127.0.0.1:5000
