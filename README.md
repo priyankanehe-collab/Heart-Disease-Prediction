@@ -32,8 +32,7 @@ This project demonstrates an end-to-end Machine Learning workflow suitable for a
 
 ## 🔍 Machine Learning Workflow
 
-1.Data Cleaning & Preprocessing
-
+1.Data Cleaning & Preprocessing<br>
 2.Exploratory Data Analysis (EDA)
 
 3.Feature Encoding
